@@ -1,7 +1,7 @@
 # Site settings
 baseurl = "http://yukofeb.github.io/MovingSaleAtAtlanta/"
-languageCode = "en-us"
-title = "Hugo Agency Theme"
+languageCode = "ja"
+title = "Moving Sale at Atlanta"
 theme = "hugo-agency-theme"
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = ""
@@ -31,16 +31,16 @@ googleAnalytics = ""
     # - send a dummy email yourself to confirm your account
     # - click the confirm link in the email from www.formspree.io
     # - you're done. Happy mailing!
-	email = "your@email.com"
+	email = "yuko.kokoro@gmail.com"
 
 
 	# Navigation
 	[params.navigation]
-		brand = "The Agency"
-		services = "Services"
-		portfolio = "Portfolio"
-		about = "About"
-		team = "Team"
+		brand = "Moving Sale at Atlanta"
+		services = "About This Site"
+		portfolio = "Product"
+		#about = "About"
+		#team = "Team"
 		contact = "Contact"
 
 
@@ -48,32 +48,34 @@ googleAnalytics = ""
 	[params.hero]
 		# To change the background image of the hero, replace 'header-bg.jpg' in
 		# the 'static/img' folder.
-		title = "Welcome To Our Studio!"
-		subtitle = "It's nice to meet you"
-		buttonText = "Tell me more"
+                #title = '<font color="red">現在サイト準備中です。 <br>3月下旬にオープン予定のため、今しばらくお待ちください。</font>'
+                title = '<font color="red">Under Construction. <br>We will start the sale at the end of March.</font>'
+		subtitle = "Moving Sale at Atlanta"
+		#subtitle = "Welcome To Our Moving Sale!"
+		buttonText = "What's this site?"
 
 
 	# Services section
 	[params.services]
-		title = "Services"
-		subtitle = "Lorem ipsum dolor sit amet consectetur."
+		title = "About This Site"
+		subtitle = "アトランタのムービングセールです"
 
         [[params.services.row]]
 
             [[params.services.row.list]]
-                icon = "fa-shopping-cart"
-                title = "E-Commerce"
-                description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+                icon = "fa-laptop"
+                title = "このサイトについて"
+                description = "2016月5月初旬にアトランタを発つため、家具やキッチン用品、生活雑貨等をセールにお出しします。気になる商品がある場合、ご質問がある場合は、本サイト下部のメールフォームからご連絡ください。"
 
             [[params.services.row.list]]
-                icon = "fa-laptop"
-                title = "Responsive Design"
-                description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+                icon = "fa-shopping-cart"
+                title = "商品受け渡しや支払いについて"
+                description = "基本的には4月下旬から5月上旬の受け渡しとなります。基本的には私たちのアパート（[Whole Foods Market Briarcriffの近く](http://www.wholefoodsmarket.com/stores/briarcliff))にお越しいただいて商品を受け渡す形になりますが、別場所での受け渡しや郵送も相談次第で可能です。<br><br>また、清算は基本的に受け渡し時に現金で行う予定です。他の方法についても相談次第で可能です。米ドル、日本円どちらの支払いも可能です。"
 
             [[params.services.row.list]]
                 icon = "fa-lock"
-                title = "Web"
-                description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+                title = "本Moving Saleの責任者について"
+                description = "Atlantaに住む日本人が本サイトを運営しています。責任者への連絡は本サイトのContact Formからお願い致します。<br>責任者：山口"
 
 	# Portfolio section
 	[params.portfolio]
@@ -81,14 +83,14 @@ googleAnalytics = ""
 		# at 'exampleSite/data/projects'. Copy the 'projects' folder into the 'data' directory
 		# at the root of this Hugo site.
 		# For more informtion take a look at the README.
-		title = "Portfolio"
-		subtitle = "Lorem ipsum dolor sit amet consectetur."
+		title = "Product"
+		subtitle = "家具やキッチン用品、生活用品など。"
 
 		[params.portfolio.modal]
-            client = "Client"
-            date = "Date"
-            category = "Category"
-            buttonText = "Close project"
+            client = "値段"
+            date = "受渡し時期"
+            category = "販売状況"
+            buttonText = "Close product page"
 
 
     # About section
@@ -186,7 +188,7 @@ googleAnalytics = ""
 	# Contact section
 	[params.contact]
 		title = "Contact us"
-		subtitle  = "Lorem ipsum dolor sit amet consectetur."
+		subtitle  = "購入希望の方やご質問のある方はこちらからご連絡ください。<br>数日経っても返事がない場合はメールアドレスの記入が間違っている可能性があるので、再度ご連絡をお願い致します。"
 		buttonText = "Send message"
 
 		# 'warning' defines error messages for invalid inputs
@@ -224,9 +226,13 @@ googleAnalytics = ""
 			link = "#"
 
 		[[params.footer.quicklinks]]
-			text = "Privacy Policy"
-			link = "#"
+			text = "Powered by Github"
+			link = "https://github.com/yukofeb/MovingSaleAtAtlanta"
 
-		[[params.footer.quicklinks]]
-			text = "Terms of Use"
-			link = "#"
+#		[[params.footer.quicklinks]]
+#			text = "Privacy Policy"
+#			link = "#"
+
+#		[[params.footer.quicklinks]]
+#			text = "Terms of Use"
+#			link = "#"
