@@ -2,6 +2,9 @@
 ## Site Link
 [Moving Sale Site](http://yukofeb.github.io/MovingSaleAtAtlanta/)  
 
+## References
+[ブログシステムHugoを構築してGithub Pagesで運用する - yukofebの日記](http://yukofeb.hatenablog.com/entry/2016/02/25/024349)  
+
 ## Develop Memo
 Build Hugo.  
 [Hugo - Hosting on GitHub Pages](https://gohugo.io/tutorials/github-pages-blog/)  
