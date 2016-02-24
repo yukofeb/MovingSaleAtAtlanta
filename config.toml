@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "http://replace-this-with-your-hugo-site.com/"
+baseurl = "http://yukofeb.github.io/MovingSaleAtAtlanta/"
 languageCode = "en-us"
 title = "Hugo Agency Theme"
 theme = "hugo-agency-theme"
