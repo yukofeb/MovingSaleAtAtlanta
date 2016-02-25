@@ -18,8 +18,18 @@ Check.
 $ hugo server --watch -t agency
 ```
 
-Push to gh-pages.  
+Generate.  
 
 ```
+$ hugo -t agency
+```
+
+After commit.  
+
+```
+# push to master
+$ git push origin master
+
+# push to gh-pages
 $ git subtree push --prefix=public git@github.com:yukofeb/MovingSaleAtAtlanta.git gh-pages
 ```

@@ -49,7 +49,7 @@ googleAnalytics = ""
 		# To change the background image of the hero, replace 'header-bg.jpg' in
 		# the 'static/img' folder.
                 #title = '<font color="red">現在サイト準備中です。 <br>3月下旬にオープン予定のため、今しばらくお待ちください。</font>'
-                title = '<font color="red">Under Construction. <br>We will start the sale at the end of March.</font>'
+                title = '<font color="red">Under Construction. <br>We will start the sale in the middle of March.</font>'
 		subtitle = "ムービングセール"
 		#subtitle = "Welcome To Our Moving Sale!"
 		buttonText = "What's this site?"
