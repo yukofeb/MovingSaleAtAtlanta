@@ -70,7 +70,7 @@ googleAnalytics = ""
             [[params.services.row.list]]
                 icon = "fa-shopping-cart"
                 title = "商品受け渡しや支払いについて"
-                description = "基本的には4月下旬から5月上旬の受け渡しとなります。基本的には私たちのアパート（[Whole Foods Market Briarcriffの近く](http://www.wholefoodsmarket.com/stores/briarcliff))にお越しいただいて商品を受け渡す形になりますが、別場所での受け渡しや郵送も相談次第で可能です。<br><br>また、清算は基本的に受け渡し時に現金で行う予定です。他の方法についても相談次第で可能です。米ドル、日本円どちらの支払いも可能です。"
+                description = "基本的には4月下旬から5月上旬の受け渡しとなります。基本的には私たちのアパート（[Whole Foods Market Briarcriffの近く](http://www.wholefoodsmarket.com/stores/briarcliff))にお越しいただいて商品を受け渡す形になりますが、別場所での受け渡しや郵送も相談次第で可能です。<br><br>また、精算は基本的に受け渡し時に現金で行う予定です。他の方法についても相談次第で可能です。米ドル、日本円どちらの支払いも可能です。"
 
             [[params.services.row.list]]
                 icon = "fa-lock"
