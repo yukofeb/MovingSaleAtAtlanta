@@ -3,7 +3,9 @@
 [Moving Sale Site](http://yukofeb.github.io/MovingSaleAtAtlanta/)  
 
 ## References
-[ブログシステムHugoを構築してGithub Pagesで運用する - yukofebの日記](http://yukofeb.hatenablog.com/entry/2016/02/25/024349)  
+[ブログシステムHugoを構築してGithub Pagesで運用する - yukofebの日記](http://yukofeb.hatenablog.com/entry/2016/02/25/024349)    
+[無料の画像結合ツール - フォトコンバイン](http://photocombine.net/cb/)  
+[Placehold.jp｜ダミー画像生成 モック用画像作成](http://placehold.jp/)  
 
 ## Develop Memo
 Build Hugo.  
