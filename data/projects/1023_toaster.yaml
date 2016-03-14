@@ -1,4 +1,4 @@
-modalID: 23
+modalID: 1023
 title: トースター
 subtitle: Black+Decker製
 date: 2016/04/29-05/06
@@ -6,5 +6,5 @@ img: toaster.jpg
 preview: toaster.jpg
 client: $19
 clientLink: "#"
-category: On Sale
+category: <font color='red'>Sold Out</font>
 description: シンプルでコンパクトなトースター。<br>利用に伴う多少の汚れがあります。
