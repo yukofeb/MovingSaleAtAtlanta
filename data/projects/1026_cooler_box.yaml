@@ -1,4 +1,4 @@
-modalID: 26
+modalID: 1026
 title: クーラーボックス
 subtitle: 容量24リットル
 date: 随時
@@ -6,5 +6,5 @@ img: cooler_box.jpg
 preview: cooler_box.jpg
 client: $5
 clientLink: "#"
-category: On Sale
+category: <font color='red'>Sold Out</font>
 description: バーベキュー時の食材の保存に何かと便利です。
