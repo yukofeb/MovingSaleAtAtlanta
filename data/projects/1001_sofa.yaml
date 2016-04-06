@@ -1,4 +1,4 @@
-modalID: 1
+modalID: 1001
 title: ソファー
 subtitle: ビッグサイズのブラウンソファー
 date: 2016/04/28 or 05/05 or 05/06
@@ -6,5 +6,5 @@ img: sofa.jpg
 preview: sofa_prv.jpg
 client: $169
 clientLink: "#"
-category: On Sale
+category: <font color=red>Sold Out</font>
 description: 原価$1,299のものを、1年前に$299にて中古で購入したもの。<br>状態はかなり良好です。
