@@ -1,4 +1,4 @@
-modalID: 22
+modalID: 1022
 title: 炊飯器
 subtitle: Zojirushi社製NS-LAC05
 date: 2016/05上旬
@@ -6,5 +6,5 @@ img: rice_cooker.jpg
 preview: rice_cooker.jpg
 client: $39
 clientLink: "#"
-category: On Sale
+category: <font color=red>Sold Out</font>
 description: 3合まで利用可能な炊飯器です。<br>しゃもじ付き。

@@ -1,4 +1,4 @@
-modalID: 35
+modalID: 1035
 title: 1ガロンウォーターボトル
 subtitle: Wholefoods Marketでのrefil用
 date: 2016/05上旬
@@ -6,5 +6,5 @@ img: waterbottle.jpg
 preview: waterbottle.jpg
 client: $3
 clientLink: "#"
-category: On Sale
+category: <font color=red>Sold Out</font>
 description: このボトルを持っていけば、Wholefoodsで水を1ガロン$0.39で購入可能です！
