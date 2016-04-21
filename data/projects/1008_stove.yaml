@@ -1,4 +1,4 @@
-modalID: 8
+modalID: 1008
 title: ストーブ
 subtitle: DeLonghi社EW7707CM (1500W)
 date: 随時
@@ -6,5 +6,5 @@ img: stove.jpg
 preview: stove.jpg
 client: $39
 clientLink: "#"
-category: On Sale
+category: <font color=red>Sold Out</font>
 description: 一部屋を温めるのに最適なストーブ。<br>状態良好。amazonでの評価4.2。<br>在庫1点あり。

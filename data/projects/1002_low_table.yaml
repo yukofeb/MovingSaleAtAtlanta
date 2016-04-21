@@ -1,4 +1,4 @@
-modalID: 2
+modalID: 1002
 title: ローテーブル
 subtitle: 高さ45cm程の低位テーブル
 date: 2016/04/28 or 05/05 or 05/06
@@ -6,5 +6,5 @@ img: low_table.jpg
 preview: low_table.jpg
 client: $39
 clientLink: "#"
-category: On Sale
+category: <font color=red>Sold Out</font>
 description: 状態良好。リビングにおける団らんにどうぞ。

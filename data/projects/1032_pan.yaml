@@ -1,4 +1,4 @@
-modalID: 32
+modalID: 1032
 title: 鍋
 subtitle: サイズ別の鍋
 date: 2016/05上旬
@@ -6,5 +6,5 @@ img: pan.jpg
 preview: pan_prv.jpg
 client: (1)(2)$7 (3)$4
 clientLink: "#"
-category: On Sale
+category: <font color=red>Sold Out</font>
 description: サイズ別の鍋です。通常利用による多少の汚れがあります。<br><br>(1)<br>大サイズ。<br>直径24cm程度、深さ10cm程度。<br><br>(2)<br>大サイズ。<br>直径22.5cm程度、深さ12.5cm程度。<br><br>(3)<br>小サイズ。<br>直径17.5cm程度、深さ9cm程度。

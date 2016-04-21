@@ -1,4 +1,4 @@
-modalID: 165
+modalID: 1165
 title: 電源タップ
 subtitle: 6プラグ使用可能
 date: 2016/05上旬
@@ -6,5 +6,5 @@ img: multi_plug.jpg
 preview: multi_plug_prv.jpg
 client: $3
 clientLink: "#"
-category: On Sale
+category: <font color=red>Sold Out</font>
 description: (1)(2)<br>6プラグ使用可能<br><br>(3)<br>3プラグ使用可能
