@@ -1,4 +1,4 @@
-modalID: 0101
+modalID: 1101
 title: シャワーカーテン
 subtitle: 可愛らしいはっぱ柄のシャワーカーテンです
 date: 2016/05上旬
@@ -6,5 +6,5 @@ img: shower_cartain.jpg
 preview: shower_cartain.jpg
 client: $7
 clientLink: "#"
-category: On Sale
+category: <font color=red>Sold Out</font>
 description: "***"
