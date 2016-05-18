@@ -31,7 +31,7 @@ googleAnalytics = ""
     # - send a dummy email yourself to confirm your account
     # - click the confirm link in the email from www.formspree.io
     # - you're done. Happy mailing!
-	email = "yuko.kokoro@gmail.com"
+	#email = "yuko.kokoro@gmail.com"
 
 
 	# Navigation
@@ -48,7 +48,7 @@ googleAnalytics = ""
 	[params.hero]
 		# To change the background image of the hero, replace 'header-bg.jpg' in
 		# the 'static/img' folder.
-                #title = '<font color="red">現在サイト準備中です。 <br>3月下旬にオープン予定のため、今しばらくお待ちください。</font>'
+                title = '<font color="red">ムービングセールは終了しました。<br>ありがとうございました。</font>'
                 #title = '<font color="red">Under Construction. <br>We will start the sale in the middle of March.</font>'
 		#subtitle = "ムービングセール"
 		subtitle = "Welcome To Our Moving Sale!"
@@ -188,7 +188,7 @@ googleAnalytics = ""
 	# Contact section
 	[params.contact]
 		title = "Contact us"
-		subtitle  = "購入希望の方やご質問のある方はこちらからご連絡ください。<br>数日経っても返事がない場合はメールアドレスの記入が間違っている可能性があるので、再度ご連絡をお願い致します。"
+		subtitle  = "<font color='red'>ムービングセールは終了しました。<br>メールフォームに連絡いただいても返信ができませんのでご了承ください。</font>"
 		buttonText = "Send message"
 
 		# 'warning' defines error messages for invalid inputs
